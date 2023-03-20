@@ -1,2 +1,3 @@
 i am practicing git commits.
-i will be making changes here!
+i will be making changes here.
+this is a new line that I need to commit.

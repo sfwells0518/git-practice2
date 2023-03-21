@@ -3,3 +3,4 @@ i will be making changes here.
 this is a new line that I need to commit.
 this is another new line - called line 4.
 practicing commits is fun.
+my dog is barking right now while i practice commits 
